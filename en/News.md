@@ -1,0 +1,9 @@
+# LIB Provisional Studio:News[LIBPS's Official Website On Github]
+ 
+**[Home](index)** **[Software](Software)** **News** **[About us](About_us)** 
+
+------------
+
+#### [LIB Provisional Studio News: Welcome to "LIB Provisional Studio's Official Website On Github!"](news/welcome) 
+
+##### [简体中文（中国大陆）](https://libps.github.io/News) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](https://libps.github.io/tc/News) | **[English(United States and United Kingdom)](https://libps.github.io/en/News)**
