@@ -25,4 +25,4 @@
 
 #### [简体中文（中国大陆）](Lucas) | [繁體中文（香港特別行政區、台灣）【沒有翻譯完成！】](tc/Lucas) | **[English(United States and United Kingdom)](en/Lucas)**
 
-PS：由于 MXZ 的版本丢进 VSCode 报错 9+ 所以此版本为特供版
+PS：由于 Buck Qian 的版本丢进 VSCode 报错 9+ 所以此版本为特供版
