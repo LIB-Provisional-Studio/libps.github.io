@@ -1,6 +1,6 @@
 # LIB临时工作室：介绍
 
-## Lucas[卢卡斯] - LIB临时工作室 联合创始人
+## [Lucas [ 卢卡斯 ] ](https://github.com/BarbTurnip437) - LIB临时工作室 联合创始人
 
 ### 教育背景
 
