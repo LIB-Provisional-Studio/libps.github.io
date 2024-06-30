@@ -13,8 +13,8 @@
 
 ------------
 
-##### 人生天地之间，若白驹过隙，忽然而已。
-##### $\qquad\qquad\qquad\qquad\qquad\qquad\qquad;——庄子的名言
+人生天地之间，若白驹过隙，忽然而已。
+$\qquad\qquad\qquad\qquad\qquad\qquad\qquad$——庄子的名言
 
 ------------
 #### 官方网站维护："Buck Qian"
