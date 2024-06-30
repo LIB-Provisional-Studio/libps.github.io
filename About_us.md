@@ -2,6 +2,8 @@
 
 **[网站主页](index)** **[软件产品](Software)** **[工作室快讯](News)** **关于我们**
 
+------------
+
 ### LIB临时工作室团队成员
 
 - 团队联合创始人:**[Buck Qian](introduction/member/Buck_Qian)**
