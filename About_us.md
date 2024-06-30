@@ -4,13 +4,13 @@
 
 ### LIB临时工作室团队成员
 
-- **[团队创始人:Buck Qian](introduction/member/Buck_Qian)**
-- **[团队副创始人:Lucas](introduction/member/Lucas)**
-- **[团队测试组组长:Mike Zhang](introduction/member/Mike_Zhang)**
+- 团队创始人:**[Buck Qian](introduction/member/Buck_Qian)**
+- 团队副创始人:**[Lucas](introduction/member/Lucas)**
+- 团队测试组组长:**[Mike Zhang](introduction/member/Mike_Zhang)**
 
-  - **团队吉祥物(就是摸鱼的):Yang**
-  - **团队吉祥物(就是摸鱼的):Qiao**
-  - **团队神秘人（名义上是工作室成员）:QuietlyHark**
+  - 团队吉祥物(就是摸鱼的):**Yang**
+  - 团队吉祥物(就是摸鱼的):**Qiao**
+  - 团队神秘人（名义上是工作室成员）:**QuietlyHark**
 
 ### [您可以访问我们的Wiki来了解我们！（点击访问）](/introduction/studio-wiki/wiki-index)
 
