@@ -2,7 +2,7 @@
 
 **[网站主页](index)** **[软件产品](Software)** **[工作室快讯](News)** **关于我们**
 
-### LIB临时工作室团队成员：
+### LIB临时工作室团队成员
 
 - **[团队创始人:Buck Qian](introduction/member/Buck_Qian)**
 - **[团队副创始人:Lucas](introduction/member/Lucas)**
