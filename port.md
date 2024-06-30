@@ -33,9 +33,6 @@
     - News.md
     - Software.md
     - index.md
-    - news
-      - 
-      - welcome.md
   - introduction
     - 
     - member
@@ -48,6 +45,9 @@
       - history.md
       - product.md
       - wiki-index.md
+  - news
+    - 
+    - welcome.md
   - tc
     - 
     - Software.md
