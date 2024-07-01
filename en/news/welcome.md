@@ -13,6 +13,6 @@
 
 --- 
 
-### [Back to LIB Provisional Studio:News](https://libps.github.io/News)
+### [Back to LIB Provisional Studio:News](https://libps.github.io/en/News)
 
 ##### [简体中文（中国大陆）](https://libps.github.io/news/welcome) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](https://libps.github.io/tc/news/welcome) | **[English(United States and United Kingdom)](https://libps.github.io/en/news/welcome)**
