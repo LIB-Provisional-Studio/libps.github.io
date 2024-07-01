@@ -1,6 +1,7 @@
 # LIB临时工作室：介绍
 
 ## [麦克·张 [ Mike Zhang ]](https://github.com/Aboutyourself) - LIB临时工作室 代码测试员
+#### [Mike Zhang 的个人介绍](https://aboutyourself.github.io)
 ### 教育背景 
 #### 受过初中及以上的教育[现就读与 LAS学校]
 ---
