@@ -2,7 +2,7 @@
 
 ## [Lucas [ 卢卡斯 ] ](https://github.com/BarbTurnip437) - LIB临时工作室 联合创始人
 
-#### [Buck Qian 的个人博客](https://buckqian.github.io)
+#### [Lucas 的个人博客](https://BarbTurnip437.github.io)
 
 ### 教育背景
 
