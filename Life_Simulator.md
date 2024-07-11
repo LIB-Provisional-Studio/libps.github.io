@@ -3,6 +3,7 @@
  ```
 您看到的LIB临时工作室第一个软件！
 也是LIB临时工作室成立纪念日来源（2020.08.25）
+人生模拟器作者：Buck Qian,隶属于LIB临时工作室。
 Welcome to Life-Simulator,LIBPS!
 ```
 ------------
