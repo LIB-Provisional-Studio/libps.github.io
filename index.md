@@ -6,7 +6,7 @@
 ### - 最近更新:字典程序 Chinese dictionary [[LIB临时工作室：软件产品]](Software)
 
 ------------
-### LIB临时工作室快讯：[欢迎来到Github官方网站！](news/welcome)
+### LIB临时工作室快讯：[Github官方网站迁移完成！](news/move_welcome)
 
 ------------
 ### 关于[LIB临时工作室团队成员......](About_us)
