@@ -6,7 +6,7 @@
 ### - Recent Update:字典程序 Chinese dictionary [[LIB Provisional Studio:Software]](Software)
 
 ------------
-### LIB Provisional Studio News：[Welcome to the official website of LIB Provisional Studio on Github!](news/welcome)
+### LIB Provisional Studio News：[The NEW Website Migration Has Been Successfully Completed On Github!](news/move_welcome)
 
 ------------
 ### About [Member of LIB Provisional Studio......](About_us)
