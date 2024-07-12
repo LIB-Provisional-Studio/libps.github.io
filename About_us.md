@@ -15,4 +15,4 @@
 
 ### [您可以访问我们的Wiki来了解我们！（点击访问）](/introduction/studio-wiki/wiki-index)
 
-#### 简体中文（中国大陆）| [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/About_us) | **[English(United States and United Kingdom)](en/About_us)**
+##### [简体中文（中国大陆）](About_us)| [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/About_us) | **[English(United States and United Kingdom)](en/About_us)**
