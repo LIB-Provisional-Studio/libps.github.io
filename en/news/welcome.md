@@ -1,5 +1,5 @@
 ## Welcome to the LIB Provisional Studio's Official Website On Github!
-### China Standard Time: August 7, 2023 [UTF+8]
+### China Standard Time: August 7th, 2023 [UTF+8]
 **LIB Provisional Studio has taken a new step on the path of continuous development and growth! Recently, this studio with C++ and Python as its main development languages successfully created its third official website on Github, the world's largest code hosting platform.**
 
 **As a studio focused on software development, LIB Provisional Studio has always been committed to providing high-quality software solutions. By creating an official website on Github, LIB Provisional Studio will further expand its influence. This new website will help users understand and use the software projects developed by LIB Provisional Studio.**
