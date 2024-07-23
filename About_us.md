@@ -13,6 +13,7 @@
 - **团队吉祥物(就是摸鱼的)：Qiao**
 - **团队神秘人（名义上是工作室成员）：QuietlyHark**
 
+#### [LIB 临时工作室 在世界服务过的范围](https://libps.github.io/LIBPS_in_the_World.jpg)
 ### [您可以访问我们的Wiki来了解我们！（点击访问）](/introduction/studio-wiki/wiki-index)
 
 ##### [简体中文（中国大陆）](About_us)| [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/About_us) | **[English(United States and United Kingdom)](en/About_us)**
