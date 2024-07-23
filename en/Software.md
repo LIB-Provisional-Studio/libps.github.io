@@ -5,7 +5,7 @@
 
 ### All Software Of LIB Provisional Studio：
 ### [Announcement Release:National War , United States National Day Release! [July 10th, 2024] ](National_War_preview)
-### [The First Software[C++]:Life Simulator[Version:1.0][Update Duration:2020/8/25 - 2022/11/12][Supported Languages: Simplified Chinese]](https://libps.github.io/Life_Simulator.exe)
+### [The First Software[C++]:Life Simulator[Version:1.0][Update Duration:2020/8/25 - 2022/11/12][Supported Languages: Simplified Chinese]](Life_Simulator)
 ### [The Second Software[C++]:Chinese dictionary[Beta Version:0.41][Update Duration:2022/11/4 - NOW ][Supported Languages: Simplified Chinese And English]](https://libps.github.io/en/Chinese_dictionary)
 ### [The Second Software[Python]:Chinese dictionary_Python Addition(Beta Version:alpha0.16)[Update Duration:2022/6/14 - NOW ][Supported Languages: Simplified Chinese]](https://libps.github.io/en/Chinese_dictionary_Python)
 ### [The Third Software[C++]:LAS Solitaire Game[Version:1.0][Update Time:2022/7/5 AND 2023/7/5][Supported Languages: Supported Languages: Simplified Chinese And English]](https://libps.github.io/en/LAS_solitaire_game)
