@@ -15,5 +15,7 @@
 ### 下载提示1：历代软件因为是自主制作，没有发布者(开发者)标签[部分软件有发布者（开发者）标签]。
 ### 下载提示2：您可以通过Github进行软件下载，或者您也可以通过蓝奏云下载（只有少部分使用蓝奏云，如果有密码，密码为"LIB6"）
 ------------
+#### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
+------------
 ### [返回LIB临时工作室：网站主页](index)
 ##### [简体中文（中国大陆）](Software) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/Software) | **[English(United States and United Kingdom)](en/Software)**
