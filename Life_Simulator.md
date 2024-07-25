@@ -1,9 +1,9 @@
 ## 人生模拟器下载页面[LIB临时工作室第一个软件]:
 
  ```
-您看到的LIB临时工作室第一个软件！
-也是LIB临时工作室成立纪念日来源（2020.08.25）
-人生模拟器作者：Buck Qian,隶属于LIB临时工作室。
+您看到的LIB 临时工作室第一个软件！
+也是LIB 临时工作室成立纪念日来源（2020.08.25）
+人生模拟器作者：Buck Qian,隶属于LIB 临时工作室。
 Welcome to Life-Simulator,LIBPS!
 ```
 ------------
@@ -12,6 +12,8 @@ Welcome to Life-Simulator,LIBPS!
 ### [Github下载：（新版）人生模拟器](Life_Simulator.exe)
 
 ### [返回LIB临时工作室：软件产品](https://libps.github.io/Software)
+------------
+#### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
 ##### [简体中文（中国大陆）](Life_Simulator) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/Life_Simulator) | **[English(United States and United Kingdom)](en/Life_Simulator)**
 
