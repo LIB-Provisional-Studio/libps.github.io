@@ -15,6 +15,8 @@
 ### 下載提示1：歷代軟件因為是自主製作，（可能）沒有發行者（開發者）標籤。
 ### 下載提示2：（如果有）下載密碼為“LIB6”，現有些軟件支持Github下載（不建議大陸用戶使用）
 ------------
+#### [產品問題或建議反饋 請發送給我們的郵箱](mailto:LIB_Provisional_Studio@outlook.com)
+------------
 ### [返回LIB臨時工作室：網站主頁](index)
  
-###### [简体中文（中国大陆）](https://libps.github.io/Software) | [繁體中文（香港特別行政區、臺灣省）【沒有翻譯完成！】](https://libps.github.io/tc/Software) | **[English(United States and United Kingdom)](https://libps.github.io/en/Software)**
+###### [简体中文（中国大陆）](https://libps.github.io/Software) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](https://libps.github.io/tc/Software) | **[English(United States and United Kingdom)](https://libps.github.io/en/Software)**
