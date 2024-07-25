@@ -8,6 +8,7 @@
 ### Github下载：
 ### [学校纸牌游戏-2022[2022年7月5日]](LAS-Solitaire-Game-2022.exe)
 ### [学校纸牌游戏-2023[2023年7月5日]](LAS-Solitaire-Game-2023.exe)
+### [学校纸牌游戏-2024[2023年7月5日]](LAS-Solitaire-Game-2024.exe)
 ------------
 ### [返回LIB临时工作室：软件产品](https://libps.github.io/Software) 
 ##### [简体中文（中国大陆）](LAS_solitaire_game) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/LAS_solitaire_game) | **[English(United States and United Kingdom)](en/LAS_solitaire_game)**
