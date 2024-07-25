@@ -278,9 +278,9 @@ gui_beta = False
 language = "chinese"
 main_screen()()
 
-#作者电话:18657216879
-#https://www.luogu.com.cn/chat?uid=767126
 ```
 ### 返回[LIB临时工作室：软件产品](Software)
-
+------------
+#### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
+------------
 ##### [简体中文（中国大陆）](Chinese_dictionary_Python) | [繁體中文（香港特別行政區、台灣）【沒有翻譯完成！】](tc/Chinese_dictionary_Python) | **[English(United States and United Kingdom)](en/Chinese_dictionary_Python)**
