@@ -4,7 +4,7 @@
 What you see is the first software of LIB Provisional Studio!
 It is also the anniversary of the establishment of LIB Provisional Studio(August 25, 2020)
 Author of Life Simulator: Buck Qian,From LIB Provisional Studio
-欢迎来到人生模拟器，LIB临时工作室的第一个软件！
+欢迎来到人生模拟器，LIB 临时工作室的第一个软件！
 ```
 ------------
 ### [Download from Lanzou：(OLD) Life Simulator](https://mixiaozai.lanzoum.com/Life-Simulator)
