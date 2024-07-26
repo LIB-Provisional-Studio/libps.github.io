@@ -8,7 +8,7 @@
 ### Github下载：
 ### [学校纸牌游戏-2022[2022年7月5日]](LAS-Solitaire-Game-2022.exe)
 ### [学校纸牌游戏-2023[2023年7月5日]](LAS-Solitaire-Game-2023.exe)
-### [学校纸牌游戏-2024[2023年7月5日]](LAS-Solitaire-Game-2024.exe)
+### [学校纸牌游戏-2024[2024年7月5日]](LAS-Solitaire-Game-2024.exe)
 ------------
 #### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
