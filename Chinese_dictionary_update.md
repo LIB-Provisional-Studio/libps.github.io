@@ -1,4 +1,4 @@
-## 字典程序[Chinese dictionary]汉语更新日志(Github官网)
+## 字典程序[Chinese dictionary]汉语（简体中文）更新日志(Github官网)
 ## 最新更新日志:
 ### 更新日志(2024/08/05)
 
