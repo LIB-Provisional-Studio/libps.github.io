@@ -3,7 +3,7 @@
  ```
 感谢您使用字典程序！
 Thank you for using the Chinese dictionary program!
-Download Password：MXZ6
+Download Password：LIB6
 ```
 
 ------------
