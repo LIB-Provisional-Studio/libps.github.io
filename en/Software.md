@@ -5,10 +5,10 @@
 
 ### All Software Of LIB Provisional Studio：
 ### [Announcement Release:National War , Under Development!](https://libps.github.io/National_War_preview)
-### [The First Software[C++]:Life Simulator[Version:1.0][Update Duration:2020/8/25 - 2022/11/12][Supported Languages: Simplified Chinese]](Life_Simulator)
-### [The Second Software[C++]:Chinese dictionary[Beta Version:0.41][Update Duration:2022/11/4 - NOW ][Supported Languages: Simplified Chinese And English]](https://libps.github.io/en/Chinese_dictionary)
-### [The Second Software[Python]:Chinese dictionary_Python Addition(Beta Version:alpha0.16)[Update Duration:2022/6/14 - NOW ][Supported Languages: Simplified Chinese]](https://libps.github.io/en/Chinese_dictionary_Python)
-### [The Third Software[C++]:LAS Solitaire Game[Version:1.0][Update Time:2022/7/5 AND 2023/7/5][Supported Languages:Simplified Chinese And English]](https://libps.github.io/en/LAS_solitaire_game)
+### [The First Software[C++]:Life Simulator[Release Version:1.0.0][Update Duration:08/25/2020 - 11/12/2022][Supported Languages: Simplified Chinese]](Life_Simulator)
+### [The Second Software[C++]:Chinese dictionary[Release Version:1.0.0][Update Duration:08/05/2024(Start:11/04/2022)][Supported Languages: Simplified/Traditional Chinese and English]](https://libps.github.io/en/Chinese_dictionary)
+### [The Second Software[Python]:Chinese dictionary_Python Addition(Alpha Version:0.16.0_alpha)[Update Duration:02/25/2024(Start:06/14/2022)][Supported Languages: Simplified Chinese]](https://libps.github.io/en/Chinese_dictionary_Python)
+### [The Third Software[C++]:LAS Solitaire Game[Version:1.0][Update Time:2022/7/5 AND 2023/7/5 AND 2024/7/5 ][Supported Languages:Simplified Chinese and English]](https://libps.github.io/en/LAS_solitaire_game)
 ------------
 
 ### Download Instructions 1 : Sorry,The Software In the LIBPS Does Not Have A Publisher (Developer) Tag (Maybe).
