@@ -1,15 +1,15 @@
-# LIB临时工作室汉语官方网站
+# LIB 临时工作室汉语官方网站
 
 **网站主页** **[软件产品](Software)** **[工作室快讯](News)** **[关于我们](About_us)** 
 
 ------------
-### - 最近更新:字典程序 Chinese dictionary [[LIB临时工作室：软件产品]](Software)
+### - 最近更新:字典程序 Chinese dictionary [[LIB 临时工作室：软件产品]](Software)
 
 ------------
-### LIB临时工作室快讯：[Github官方网站迁移完成！](news/move_welcome)
+### LIB 临时工作室快讯：[LIB 临时工作室四周年快乐！](news/fourth_anniversary_summary)
 
 ------------
-### 关于[LIB临时工作室团队成员......](About_us)
+### 关于[LIB 临时工作室团队成员......](About_us)
 
 ------------
 
