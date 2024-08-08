@@ -63,3 +63,5 @@ The content of the service refers to the multi-platform dictionary query tool (h
 ### LIB Provisional Studio  Supreme
 
 ### [Return to LIB Provisional Studio: Software Products](Software)
+
+##### [简体中文（中国大陆）](Chinese_dictionary_Service_Terms) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/Chinese_dictionary_Service_Terms) | **[English(United States and United Kingdom)](en/Chinese_dictionary_Service_Terms)**
