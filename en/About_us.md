@@ -3,8 +3,8 @@
 
 --------
 ### About Member of LIB Provisional Studio:
-- **Founder Of The Studio [Codewriting]:Buck Qian**
-- **Managing Director [Codewriting]:Lucas**
+- **Co-Founder Of The Studio [Codewriting]:Buck Qian**
+- **Co-Founder Of The Studio [Codewriting]:Lucas**
 - **Manager [Software Tester]:Mike Zhang**
 - **Worker [A useless mascot]:Yang**
 - **Worker [A useless mascot]:Qiao**
