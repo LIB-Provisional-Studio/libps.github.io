@@ -6,9 +6,9 @@
 #### 注意：游戏中出现的LAS指当时灵感的来源
 ------------
 ### Github下载：
-### [学校纸牌游戏-2022[2022年7月5日]](School_goc_game-2022.exe)
-### [学校纸牌游戏-2023[2023年7月5日]](School_goc_game-2023.exe)
-### [学校纸牌游戏-2024[2024年7月5日]](School_goc_game-2024.exe)
+### [学校纸牌游戏-2022[2022年7月5日]](School_card_game-2022.exe)
+### [学校纸牌游戏-2023[2023年7月5日]](School_card_game-2023.exe)
+### [学校纸牌游戏-2024[2024年7月5日]](School_card_game-2024.exe)
 ------------
 #### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
