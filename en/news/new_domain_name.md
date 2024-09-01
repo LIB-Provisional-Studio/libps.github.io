@@ -1,5 +1,5 @@
 ## LIB Provisional Studio's New Milestone: Domain Name Upgrade
-### China Standard Time [UTC+8]: August 7, 2024
+### China Standard Time [UTC+8]: September 1, 2024
 **In this era of rapidly developing information technology, an excellent domain name is crucial for a studio's brand building and online identity. We, LIB Provisional Studio, are proud to announce that we have officially acquired a new domain name: http://libps.top (Simplified Chinese) !**
 
 **This new domain name is not only more concise and memorable but also more directly reflects our studio's name and brand. Its acquisition marks a further expansion of our studio in the online domain and an enhancement of our brand influence.**
