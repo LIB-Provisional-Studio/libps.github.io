@@ -15,7 +15,7 @@ Welcome to Life-Simulator,LIBPS!
 ------------
 #### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
-##### [简体中文（中国大陆）](Life_Simulator) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/Life_Simulator) | **[English(United States and United Kingdom)](en/Life_Simulator)**
+##### [简体中文（中国内地）](Life_Simulator) | [繁體中文「香港澳門」](hkmo/Life_Simulator) |  [繁體中文「台灣地區」](tw/Life_Simulator) | **[English(United States and United Kingdom)](en/Life_Simulator)**
 
 
 
