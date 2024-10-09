@@ -16,4 +16,4 @@
 #### [LIB 临时工作室 在世界服务过的范围](https://libps.github.io/LIBPS_in_the_World.jpg)
 ### [您可以访问我们的Wiki来了解我们！（点击访问）](/introduction/studio-wiki/wiki-index)
 
-##### [简体中文（中国内地）](Life_Simulator) | [繁體中文「香港澳門」](hkmo/Life_Simulator) |  [繁體中文「台灣地區」](tw/Life_Simulator) | **[English(United States and United Kingdom)](en/Life_Simulator)**
+##### [简体中文（中国内地）](About_us) | [繁體中文「香港澳門」](hkmo/About_us) |  [繁體中文「台灣地區」](tw/About_us) | **[English(United States and United Kingdom)](en/About_us)**
