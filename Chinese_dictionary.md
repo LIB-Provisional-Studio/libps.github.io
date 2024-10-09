@@ -14,4 +14,4 @@ Thank you for using the Chinese dictionary program!
 ------------
 #### [产品问题或建议反馈 请发送给我们的邮箱](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
-##### [简体中文（中国大陆）](Chinese_dictionary) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/Chinese_dictionary) | **[English(United States and United Kingdom)](en/Chinese_dictionary)**
+##### [简体中文（中国内地）](Chinese_dictionary) | [繁體中文「香港澳門」](hkmo/Chinese_dictionary) |  [繁體中文「台灣地區」](tw/Chinese_dictionary) | **[English(United States and United Kingdom)](en/Chinese_dictionary)**
