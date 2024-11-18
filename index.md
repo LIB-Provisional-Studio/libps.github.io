@@ -1,19 +1,23 @@
-### 选择您的网站使用语言 
----
-## 亚洲及太平洋地区（包括大洋洲）
+# LIB 临时工作室汉语官方网站
 
-[简体中文（中国大陆）](https://libps.github.io/zh/index.md) [繁體中文（香港澳門）](https://libps.github.io/zh-hkmo/index.md) [繁體中文（台灣地區）]((https://libps.github.io/zh-tw/index.md))
-[English (Hong Kong)](https://libps.github.io/en/hk/index.md)
-Português (Macau)
-日本語（日本）
-한국어(대한민국)
+**网站主页** **[软件产品](Software)** **[工作室快讯](News)** **[关于我们](About_us)** 
 
-## 北美洲、南美洲和欧洲（包括非洲）
+------------
+### - 最近更新:字典程序 Chinese dictionary [[LIB 临时工作室：软件产品]](Software)
 
-[American English (United States)](https://libps.github.io/en/american/index.md)
-[British English (United Kingdom)](https://libps.github.io/en/british/index.md)
-Français (France) 
-Русский (Российская Федерация)
-Español (España)
-Português (Portugal)
-Português (Brasil)
+------------
+### LIB 临时工作室快讯：[LIB 临时工作室四周年快乐！](news/fourth_anniversary_summary)
+
+------------
+### 关于[LIB 临时工作室团队成员......](About_us)
+
+------------
+
+##### 人生天地之间，若白驹过隙，忽然而已。
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——庄子的名言
+
+------------
+#### 官方网站维护："Buck Qian"
+#### [另外平台网站：洛谷官方网站 现已停用](https://www.luogu.com.cn/paste/libps)
+
+##### [简体中文（中国大陆）](index) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](tc/index) | **[English(United States and United Kingdom)](en/index)**
