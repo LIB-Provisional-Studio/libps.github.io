@@ -1,22 +1,20 @@
-# LIB Provisional Studio English Official Website
+### 选择您的网站使用语言 
+---
+## 亚洲及太平洋地区（包括大洋洲）
 
-**Home** **[Software](Software)** **[News](News)** **[About us](About_us)** 
+- [简体中文（中国大陆）](https://libps.github.io/zh/index)| [繁體中文（香港澳門）](https://libps.github.io/zh-hkmo/index)| [繁體中文（台灣地區）]((https://libps.github.io/zh-tw/index))
+  
+- [English (Hong Kong)](https://libps.github.io/en/hk/index)
+- Português (Macau)
+- 日本語（日本）
+- 한국어(대한민국)
 
-------------
-### - Recent Update:字典程序 Chinese dictionary [[LIB Provisional Studio:Software]](Software)
+## 北美洲、南美洲和欧洲（包括非洲）
 
-------------
-### LIB Provisional Studio News：[The NEW Website Migration Has Been Successfully Completed On Github!](news/move_welcome)
-
-------------
-### About [Member of LIB Provisional Studio......](About_us)
-
-------------
-
-##### "Comrades! If we don't write code now, we won't have time to write code later!"  
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——Buck Qian
-
-------------
-#### Website Maintainer："Buck Qian"
-#### [LIB Provisional Studio English official website (Luogu) Closed ](https://www.luogu.com.cn/paste/libps)
-###### [简体中文（中国大陆）](https://libps.github.io/index) | [繁體中文（港澳臺地區）【沒有翻譯完成！】](https://libps.github.io/tc/index) | **[English(United States and United Kingdom)](https://libps.github.io/en/index)**
+- [American English (United States)](https://libps.github.io/en/american/index)
+- [British English (United Kingdom)](https://libps.github.io/en/british/index)
+- Français (France) 
+- Русский (Российская Федерация)
+- Español (España)
+- Português (Portugal)
+- Português (Brasil)
