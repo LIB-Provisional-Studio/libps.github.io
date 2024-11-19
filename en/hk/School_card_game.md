@@ -6,9 +6,9 @@
 ##### Note: This card game was not created by LAS students, and the LAS used in the game refers to the source of inspiration at that time
 ------------
 
-### [The School Game of Card-2022[July 5, 2022]](https://libps.github.io/School_card_game-2022-EN.exe)
-### [The School Game of Card-2023[July 5, 2023]](https://libps.github.io/School_card_game-2023-EN.exe)
-### [The School Game of Card-2024[July 5, 2024]](https://libps.github.io/School_card_game-2024.exe)
+### [The School Game of Card-2022[July 5, 2022]](https://libps.github.io/download/School_card_game-2022-EN.exe)
+### [The School Game of Card-2023[July 5, 2023]](https://libps.github.io/download/School_card_game-2023-EN.exe)
+### [The School Game of Card-2024[July 5, 2024]](https://libps.github.io/download/School_card_game-2024.exe)
 
 ### [Back to LIB Provisional Studio:Software](https://libps.github.io/en/hk/Software) 
 

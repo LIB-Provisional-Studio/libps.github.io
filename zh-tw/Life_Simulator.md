@@ -9,7 +9,7 @@ Welcome to Life-Simulator,LIBPS!
 ------------
 ### [藍奏雲下載：（老版）人生模擬器](https://mixiaozai.lanzoum.com/Life-Simulator)
 
-### [Github下載：（新版）人生模擬器](https://libps.github.io/Life_Simulator.exe)
+### [Github下載：（新版）人生模擬器](https://libps.github.io/download/Life_Simulator.exe)
 
 ### [返回LIB臨時工作室：軟件產品](https://libps.github.io/zh-tw/Software)
 ------------

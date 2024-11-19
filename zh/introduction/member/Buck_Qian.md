@@ -3,7 +3,7 @@
 ## [巴克·钱 [ Buck Qian ]](https://github.com/BUCKQIAN) - LIB临时工作室 联合创始人
 #### [Buck Qian 的个人博客](https://buckqian.github.io)
 ### 教育背景 
-#### 受过初中及以上的教育[现就读与 实验初级]
+#### 受过初中及以上的教育[现就读与 CJ-SY School]
 ---
 ### 荣誉与获奖
 ####  C++信息学竞赛一等奖（本县）
