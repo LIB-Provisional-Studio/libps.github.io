@@ -9,7 +9,7 @@ Author of Life Simulator: Buck Qian,From LIB Provisional Studio
 ------------
 ### [Download from Lanzou：(OLD) Life Simulator](https://mixiaozai.lanzoum.com/Life-Simulator)
 
-### [Download from Github：(NEW) Life Simulator](Life_Simulator.exe)
+### [Download from Github：(NEW) Life Simulator](https://libps.github.io/Life_Simulator.exe)
 
 ### [Back to LIB Provisional Studio’s English Official Website:Software](https://libps.github.io/en/hk/Software)
 ------------

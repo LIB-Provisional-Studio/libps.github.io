@@ -6,9 +6,9 @@
 #### 注意：遊戲中出現的LAS指當時靈感的來源
 ------------
 ### Github下載：
-### [學校紙牌遊戲-2022[2022年7月5日]](School_card_game-2022.exe)
-### [學校紙牌遊戲-2023[2023年7月5日]](School_card_game-2023.exe)
-### [學校紙牌遊戲-2024[2024年7月5日]](School_card_game-2024.exe)
+### [學校紙牌遊戲-2022[2022年7月5日]](https://libps.github.io/School_card_game-2022.exe)
+### [學校紙牌遊戲-2023[2023年7月5日]](https://libps.github.io/School_card_game-2023.exe)
+### [學校紙牌遊戲-2024[2024年7月5日]](https://libps.github.io/School_card_game-2024.exe)
 ------------
 #### [產品問題或建議反饋 請發送給我們的郵箱](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
