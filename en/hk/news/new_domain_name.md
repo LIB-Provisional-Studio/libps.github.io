@@ -18,4 +18,4 @@
 
 ### [Back to LIB Provisional Studio: Studio News](https://libps.github.io/en/hk/News)
 
-##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index.md)
+##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index)

@@ -9,4 +9,4 @@
 #### [LIB Provisional Studio News: Happy 4th Anniversary to LIB Provisional Studio!](news/fourth_anniversary_summary)
 #### [LIB Provisional Studio's New Milestone: Domain Name Upgrade](news/new_domain_name)
 
-##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index.md)
+##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index)

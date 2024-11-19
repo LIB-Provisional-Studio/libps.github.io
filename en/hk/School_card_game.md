@@ -12,4 +12,4 @@
 
 ### [Back to LIB Provisional Studio:Software](https://libps.github.io/en/hk/Software) 
 
-##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index.md)
+##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index)

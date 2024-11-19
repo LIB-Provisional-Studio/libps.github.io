@@ -16,4 +16,4 @@
 ---
 ### [Back to LIB Provisional Studio:News](https://libps.github.io/en/british/News)
 
-##### [British English (United Kingdom) - Switch Your Language](https://libps.github.io/index.md)
+##### [British English (United Kingdom) - Switch Your Language](https://libps.github.io/index)

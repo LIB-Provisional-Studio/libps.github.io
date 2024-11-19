@@ -18,4 +18,4 @@
 #### [Please send feedback on product issues or suggestions to our email address](mailto:LIB_Provisional_Studio@outlook.com)
 ------------
 ### [Back to LIB Provisional Studio's English Official Website:Home](index)
-##### [American English (United States) - Switch Your Language](https://libps.github.io/index.md)
+##### [American English (United States) - Switch Your Language](https://libps.github.io/index)

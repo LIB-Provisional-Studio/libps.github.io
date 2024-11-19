@@ -64,4 +64,4 @@ The content of the service refers to the multi-platform dictionary query tool (h
 
 ### [Return to LIB Provisional Studio: Software Products](Software)
 
-##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index.md)
+##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index)

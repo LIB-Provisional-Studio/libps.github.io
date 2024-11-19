@@ -19,4 +19,4 @@
 ------------
 #### Website Maintainer："Buck Qian"
 #### [LIB Provisional Studio English official website (Luogu) Closed ](https://www.luogu.com.cn/paste/libps)
-##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index.md)
+##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index)

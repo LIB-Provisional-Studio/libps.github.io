@@ -16,4 +16,4 @@
 ---
 ### [Back to LIB Provisional Studio:News](https://libps.github.io/en/american/News)
 
-##### [American English (United States) - Switch Your Language](https://libps.github.io/index.md)
+##### [American English (United States) - Switch Your Language](https://libps.github.io/index)

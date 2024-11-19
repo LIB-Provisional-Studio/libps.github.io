@@ -12,4 +12,4 @@
 
 #### [Regions served by LIB Provisional Studio in the World](https://libps.github.io/LIBPS_in_the_World_EN.jpg)
 
-##### [British English (United Kingdom) - Switch Your Language](https://libps.github.io/index.md)
+##### [British English (United Kingdom) - Switch Your Language](https://libps.github.io/index)

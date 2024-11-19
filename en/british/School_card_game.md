@@ -12,4 +12,4 @@
 
 ### [Back to LIB Provisional Studio:Software](https://libps.github.io/en/british/Software) 
 
-##### [British English (United Kingdom) - Switch Your Language](https://libps.github.io/index.md)
+##### [British English (United Kingdom) - Switch Your Language](https://libps.github.io/index)

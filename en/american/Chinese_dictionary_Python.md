@@ -287,4 +287,4 @@ main_screen()()
 #https://www.luogu.com.cn/chat?uid=767126
 ```
 ### [Back to LIB Provisional Studio:Software](https://libps.github.io/en/american/Software) 
-##### [American English (United States) - Switch Your Language](https://libps.github.io/index.md)
+##### [American English (United States) - Switch Your Language](https://libps.github.io/index)

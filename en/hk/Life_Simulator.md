@@ -13,6 +13,6 @@ Author of Life Simulator: Buck Qian,From LIB Provisional Studio
 
 ### [Back to LIB Provisional Studio’s English Official Website:Software](https://libps.github.io/en/hk/Software)
 ------------
-##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index.md)
+##### [English (Hong Kong) - Switch Your Language](https://libps.github.io/index)
 
 
