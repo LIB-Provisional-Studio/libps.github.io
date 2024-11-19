@@ -14,6 +14,6 @@
 - **團隊神秘人（名義上是工作室成員）：QuietlyHark**
 
 #### [LIB 臨時工作室 在世界服務過的範圍](https://libps.github.io/zh-tw/LIBPS_in_the_World.jpg)
-### [您可以訪問我們的Wiki來了解我們！（點擊訪問）](/introduction/studio-wiki/wiki-index)
+### [您可以訪問我們的Wiki來了解我們！（點擊訪問）](introduction/studio-wiki/wiki-index)
 
 ##### [繁體中文（台灣地區） - 切換您的語言](https://libps.github.io/index)
