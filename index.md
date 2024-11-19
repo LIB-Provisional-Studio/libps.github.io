@@ -4,7 +4,7 @@
 
 - [简体中文（中国大陆）](https://libps.github.io/zh/index)
 - [繁體中文（香港澳門）](https://libps.github.io/zh-hkmo/index)
-- [繁體中文（台灣地區）]((https://libps.github.io/zh-tw/index))
+- [繁體中文（台灣地區）](https://libps.github.io/zh-tw/index)
 - [English (Hong Kong)](https://libps.github.io/en/hk/index)
 - Português (Macau)
 - 日本語（日本）
