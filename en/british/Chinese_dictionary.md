@@ -7,7 +7,7 @@ Download Password：LIB6
 ```
 
 ------------
-### [Chinese Dictionary: Download the latest version](https://libps.github.io/Chinese_Dictionary_1.0.1.20240808_Release)
+### [Chinese Dictionary: Download the latest version](https://libps.github.io/Chinese_Dictionary_1.0.1.20240808_Release.zip)
 ### [Chinese dictionary: The English "What News(update)"](Chinese_dictionary_update)
 ### [Chinese dictionary Terms of Service (English Version)](Chinese_dictionary_Service_Terms)
 ### [Back to LIB Provisional Studio's English Official Website:Software](Software)

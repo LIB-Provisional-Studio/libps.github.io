@@ -7,7 +7,7 @@ Thank you for using the Chinese dictionary program!
 ```
 
 ------------
-### [字典程序：下載最新版本](https://libps.github.io/Chinese_Dictionary_1.0.1.20240808_Release)
+### [字典程序：下載最新版本](https://libps.github.io/Chinese_Dictionary_1.0.1.20240808_Release.zip)
 ### [字典程序：漢語更新日誌](Chinese_dictionary_update)
 ### [字典程序：漢語使用條款](Chinese_dictionary_Service_Terms)
 ### [返回LIB臨時工作室：軟件產品](https://libps.github.io/zh-hkmo/Software)
