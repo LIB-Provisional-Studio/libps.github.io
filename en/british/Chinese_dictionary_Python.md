@@ -86,7 +86,7 @@ def main_screen():
     clear_screen()
     if debug:
         print(f"debug = True\n")
-    print(f"""欢迎来到字典程序(py addition)(By:MiXiaozai Studio)
+    print(f"""欢迎来到字典程序(py addition)(By:LIB Provisional Studio)
 
 请选择您的模式(输入前面的序号)
   s.查字模式
