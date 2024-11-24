@@ -199,7 +199,7 @@ def dev():
     clear_screen()
     input("""主要開發:Lucas
     
-原版製作:米小仔
+原版製作:Buck Qian
     """)
     main_screen()()
 def settings():
