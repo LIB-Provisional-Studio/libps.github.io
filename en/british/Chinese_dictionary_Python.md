@@ -240,7 +240,7 @@ def dev():
     clear_screen()
     input("""主要开发:Lucas
     
-原版制作:米小仔
+原版制作:Buck Qian
     """)
     main_screen()()
 def settings():
