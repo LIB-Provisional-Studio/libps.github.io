@@ -1,6 +1,6 @@
 # LIB 临时工作室汉语官方网站
 
-**网站主页** **[软件产品](Software.md)** **[工作室快讯](News.md)** **[关于我们](About_md)** 
+**网站主页** **[软件产品](Software.md)** **[工作室快讯](News.md)** **[关于我们](About_us.md)** 
 
 ------------
 ### - 最近更新:字典程序 Chinese dictionary [[LIB 临时工作室：软件产品]](Software.md)

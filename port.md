@@ -3,7 +3,7 @@
 测试&观赏用\
 一块没有被Buck_Qian的翻译风暴侵蚀的区域
 
-本网站的任何问题在<https://github.com/LIBPS/libps.github.io>反馈
+遇到任何问题前往<https://github.com/LIBPS/libps.github.io>反馈
 
 文件夹 **加粗**\
 非`.md`文件 *斜体*
