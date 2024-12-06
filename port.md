@@ -86,7 +86,7 @@
     - [Chinese_dictionary_update.md](zh/Chinese_dictionary_update.md)
     - [Chinese_dictionary.md](zh/Chinese_dictionary.md)
     - [index.md](zh/index.md)
-    - *[LIBPS_in_the_World_EN.jpg](zh/LIBPS_in_the_World_EN.jpg)*
+    - *[LIBPS_in_the_World.jpg](zh/LIBPS_in_the_World.jpg)*
     - [Life_Simulator.md](zh/Life_Simulator.md)
     - [National_War_preview.md](zh/National_War_preview.md)
     - [News.md](zh/News.md)
@@ -113,7 +113,7 @@
     - [Chinese_dictionary_update.md](zh-hkmo/Chinese_dictionary_update.md)
     - [Chinese_dictionary.md](zh-hkmo/Chinese_dictionary.md)
     - [index.md](zh-hkmo/index.md)
-    - *[LIBPS_in_the_World_EN.jpg](zh-hkmo/LIBPS_in_the_World_EN.jpg)*
+    - *[LIBPS_in_the_World.jpg](zh-hkmo/LIBPS_in_the_World.jpg)*
     - [Life_Simulator.md](zh-hkmo/Life_Simulator.md)
     - [National_War_preview.md](zh-hkmo/National_War_preview.md)
     - [News.md](zh-hkmo/News.md)
@@ -140,7 +140,7 @@
     - [Chinese_dictionary_update.md](zh-tw/Chinese_dictionary_update.md)
     - [Chinese_dictionary.md](zh-tw/Chinese_dictionary.md)
     - [index.md](zh-tw/index.md)
-    - *[LIBPS_in_the_World_EN.jpg](zh-tw/LIBPS_in_the_World_EN.jpg)*
+    - *[LIBPS_in_the_World.jpg](zh-tw/LIBPS_in_the_World.jpg)*
     - [Life_Simulator.md](zh-tw/Life_Simulator.md)
     - [National_War_preview.md](zh-tw/National_War_preview.md)
     - [News.md](zh-tw/News.md)
