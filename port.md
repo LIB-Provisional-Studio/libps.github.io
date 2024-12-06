@@ -21,6 +21,7 @@
   - [LIBPSADSE.md](LIBPSADSE.md)
   - [MinGw.md](MinGw.md)
   - [port.md][port.md]
+  - **[Cbscfe](Cbscfe)**
   - **[download](download)**
     - *[Chinese_Dictionary_1.0.1.20240808_Release.zip](download/Chinese_Dictionary_1.0.1.20240808_Release.zip)*
     - *[LAS-Solitaire-Game-2024.exe](download/LAS-Solitaire-Game-2024.exe)*

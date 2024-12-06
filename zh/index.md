@@ -1,6 +1,6 @@
 # LIB 临时工作室汉语官方网站
 
-**网站主页** **[软件产品](Software)** **[工作室快讯](News)** **[关于我们](About_us)** 
+**网站主页** **[软件产品](Software.md)** **[工作室快讯](News.md)** **[关于我们](About_md)** 
 
 ------------
 ### - 最近更新:字典程序 Chinese dictionary [[LIB 临时工作室：软件产品]](Software)
@@ -18,6 +18,6 @@
 
 ------------
 #### 官方网站维护："Buck Qian"
-#### [另外平台网站：洛谷官方网站 现已停用](https://www.luogu.com.cn/paste/libps)
+#### [另外平台网站：洛谷官方网站 现已停用](https://www.luogu.com.cn/paste/6luhnc4t)
 
 ##### [简体中文（中国大陆） - 切换您的语言](https://libps.github.io/index)
