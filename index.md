@@ -2,6 +2,7 @@
 ---
 ## 亚洲及太平洋地区（包括大洋洲）
 
+[简体中文Cbscfe版（中国大陆）]: Cbscfe/index.md ""
 - [简体中文（中国大陆）](zh/index)
 - [繁體中文（香港澳門）](zh-hkmo/index)
 - [繁體中文（台灣地區）](zh-tw/index)
