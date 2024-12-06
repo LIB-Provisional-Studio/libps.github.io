@@ -19,3 +19,8 @@
 - Español (España)
 - Português (Portugal)
 - Português (Brasil)
+
+## 娱乐语言
+
+- 文言（华夏）
+- アメリカン イングリッシュ (ジャパン)
