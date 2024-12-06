@@ -30,7 +30,6 @@
     - *[School_card_game-2023-EN.exe](download/School_card_game-2023-EN.exe)*
     - *[School_card_game-2023.exe](download/School_card_game-2023.exe)*
   - **[en](en)**
-    - 
     - [index.md](en/index.md)
     - **[american](en/american)**
       - [About_us.md](en/american/About_us.md)
@@ -81,7 +80,6 @@
         - [new_domain_name.md](en/hk/news/new_domain_name.md)
         - [welcome.md](en/hk/news/welcome.md)
   - **[zh](zh)**
-    - 
     - [About_us.md](zh/About_us.md)
     - [Chinese_dictionary_Python.md](zh/Chinese_dictionary_Python.md)
     - [Chinese_dictionary_Service_Terms.md](zh/Chinese_dictionary_Service_Terms.md)
@@ -109,7 +107,6 @@
       - [new_domain_name.md](zh/news/new_domain_name.md)
       - [welcome.md](zh/news/welcome.md)
   - **[zh-hkmo](zh-hkmo)**
-    - 
     - [About_us.md](zh-hkmo/About_us.md)
     - [Chinese_dictionary_Python.md](zh-hkmo/Chinese_dictionary_Python.md)
     - [Chinese_dictionary_Service_Terms.md](zh-hkmo/Chinese_dictionary_Service_Terms.md)
@@ -137,7 +134,6 @@
       - [new_domain_name.md](zh-hkmo/news/new_domain_name.md)
       - [welcome.md](zh-hkmo/news/welcome.md)
   - **[zh-tw](zh-tw)**
-    - 
     - [About_us.md](zh-tw/About_us.md)
     - [Chinese_dictionary_Python.md](zh-tw/Chinese_dictionary_Python.md)
     - [Chinese_dictionary_Service_Terms.md](zh-tw/Chinese_dictionary_Service_Terms.md)
