@@ -6,5 +6,5 @@
   - [字典程序](/zh/Chinese_dictionary.html "甚至连GUI都没有...")
   - [字典程序Python Addition](/zh/Chinese_dictionary_Python.html "算了我的也没有")
   - [学校纸牌游戏](/zh/School_card_game.html)
-- github后 (由于我们开始**使用github**这将把你**送到github项目**)
+- github后 (由于我们开始**使用**github这将把你**送到github项目**)
   - [禁用助手](https://github.com/LIBPS/Disable_Helper)
