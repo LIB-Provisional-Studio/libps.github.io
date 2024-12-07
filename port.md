@@ -23,7 +23,7 @@
   - [port.md](port.md "达成成就：这就是传说中的原地tp？")
   - **[Cbscfe](Cbscfe)**
     - [index.md](Cbscfe/index.md)
-  - **[download](download)**
+  - **[download](download "这些直接点击会下载")**
     - *[Chinese_Dictionary_1.0.1.20240808_Release.zip](download/Chinese_Dictionary_1.0.1.20240808_Release.zip)*
     - *[LAS-Solitaire-Game-2024.exe](download/LAS-Solitaire-Game-2024.exe)*
     - *[Life_Simulator.exe](download/Life_Simulator.exe)*
