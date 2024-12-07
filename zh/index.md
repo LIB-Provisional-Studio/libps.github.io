@@ -1,15 +1,15 @@
 # LIB 临时工作室汉语官方网站
 
-**网站主页** **[软件产品](Software.md)** **[工作室快讯](News.md)** **[关于我们](About_us.md)** 
+**网站主页** **[软件产品](Software)** **[工作室快讯](News)** **[关于我们](About_us)** 
 
 ------------
-### - 最近更新:字典程序 Chinese dictionary [[LIB 临时工作室：软件产品]](Software.md)
+### - 最近更新:字典程序 Chinese dictionary [[LIB 临时工作室：软件产品]](Software)
 
 ------------
-### LIB 临时工作室快讯：[LIB 临时工作室四周年快乐！](news/fourth_anniversary_summary.md)
+### LIB 临时工作室快讯：[LIB 临时工作室四周年快乐！](news/fourth_anniversary_summary)
 
 ------------
-### 关于[LIB 临时工作室团队成员......](About_us.md)
+### 关于[LIB 临时工作室团队成员......](About_us)
 
 ------------
 
@@ -18,6 +18,5 @@
 
 ------------
 #### 官方网站维护："Buck Qian"
-#### 另外平台网站：[洛谷官方网站](https://www.luogu.com.cn/paste/6luhnc4t)(现已停用)，[Cbscfe版本](../Cbscfe/index.md)
-
+#### 另外平台网站：[洛谷官方网站](https://www.luogu.com.cn/paste/6luhnc4t)(现已停用)
 ##### [简体中文（中国大陆） - 切换您的语言](../index)
