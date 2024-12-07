@@ -1,4 +1,4 @@
-# LIB临时工作室:枢纽
+## 枢纽
 
 测试&观赏用\
 一块没有被Buck_Qian的翻译风暴侵蚀的区域
@@ -20,7 +20,7 @@
   - *[LIBPS-logo.png](LIBPS-logo.png)*
   - [LIBPSADSE.md](LIBPSADSE.md)
   - [MinGw.md](MinGw.md)
-  - [port.md][port.md]
+  - [port.md](port.md "达成成就：这就是传说中的原地tp？")
   - **[Cbscfe](Cbscfe)**
     - [index.md](Cbscfe/index.md)
   - **[download](download)**
@@ -162,5 +162,3 @@
       - [move_welcome.md](zh-tw/news/move_welcome.md)
       - [new_domain_name.md](zh-tw/news/new_domain_name.md)
       - [welcome.md](zh-tw/news/welcome.md)
-
-[port.md]: port.md "达成成就：这就是传说中的原地tp？"
