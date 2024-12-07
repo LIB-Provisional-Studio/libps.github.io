@@ -7,7 +7,8 @@
 遇到任何问题前往<https://github.com/LIBPS/libps.github.io>反馈
 
 - 前前官方网站:<https://eh27656476.icoc.ws>(已经停止更新和维护)
-- 米小仔洛谷官方网站:<https://www.luogu.com.cn/paste/6luhnc4t>(已经停止更新和维护)
+- Buck Qian洛谷官方网站:<https://www.luogu.com.cn/paste/6luhnc4t>(已经停止更新和维护)
+- Cbscfe洛谷官方网站:<https://www.luogu.com.cn/paste/b4mw1ptj>(已经停止更新和维护)
 - 现官方网站:<https://libps.github.io>
 
 **[返回Buck Qian版本](../zh/index.md)**\
